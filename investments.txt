@@ -1,0 +1,28 @@
+type = "stock"
+symbol = "AAPL"
+name = "Apple Inc."
+quantity = "610"
+price = "1.0"
+bookValue = "64130.29"
+
+type = "stock"
+symbol = "TEST"
+name = "Test Inc."
+quantity = "5301"
+price = "1.11"
+bookValue = "123.45"
+
+type = "stock"
+symbol = "TEST2"
+name = "Apple Inc."
+quantity = "200"
+price = "110.95"
+bookValue = "0.00"
+
+type = "mutualfund"
+symbol = "TEST MF"
+name = "Which MF?."
+quantity = "500"
+price = "99.0"
+bookValue = "444.00"
+
